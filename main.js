@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", () => {
   const mensaje = `
 Hola! 👋
-Queríamos confirmar tu asistencia a mis quince 🥳​
+Quería confirmar tu asistencia a mis quince 🥳​
 
 ✅ ¿Asistís a la fiesta? (Sí / No)
 👥 ¿Cuántas personas asisten?
