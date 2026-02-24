@@ -71,6 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
 Hola! 👋
 Quería confirmar tu asistencia a mis quince 🥳​
 
+📍​​   Nombre :...
 ✅ ¿Asistís a la fiesta? (Sí / No)
 👥 ¿Cuántas personas asisten?
 🍽️ ¿Tenés alguna restricción alimenticia?
